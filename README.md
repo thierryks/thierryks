@@ -1,6 +1,6 @@
 ### Olá, sou o Thierry 👋
 
-Depois de 3 anos servindo na Marinha do Brasil, estou migrando para a área de Tecnologia — com foco em Desenvolvimento e Análise de Dados.
+Depois de 5 anos servindo na Marinha do Brasil, estou migrando para a área de Tecnologia — com foco em Desenvolvimento e Análise de Dados.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (Etep)
 - 📱 Desenvolvimento Mobile Multiplataforma no SENAI Maracanã (React Native, TypeScript, POO, Arquitetura de Software)
